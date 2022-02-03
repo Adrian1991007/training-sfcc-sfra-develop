@@ -1,5 +1,5 @@
 <form xmlns="http://www.demandware.com/xml/form/2008-04-19" secure="false">
-	<group formid="customer">
+	<group formid="custom">
 		<field
 			formid="firstname"
 			label="label.input.firstname.profile"
