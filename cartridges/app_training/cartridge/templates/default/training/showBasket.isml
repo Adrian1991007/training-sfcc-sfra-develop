@@ -1,0 +1,5 @@
+
+<h1>Basket items are :</h1><br/>
+<isloop status="loopState" items="${pdict.Basket.getProductLineItems()}" var="productLineItem">
+    ${loopState.count} ${productLineItem.product.name} ${loopState.index}<br/>
+</isloop>

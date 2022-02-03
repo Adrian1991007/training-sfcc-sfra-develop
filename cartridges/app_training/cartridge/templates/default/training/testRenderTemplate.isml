@@ -1,0 +1,2 @@
+${pdict.myvariable}
+<isinclude url="${URLUtils.https('RenderTemplate-rand')}"/>
